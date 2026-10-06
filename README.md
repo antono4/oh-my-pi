@@ -1,1 +1,33 @@
-Last updated: 2026-10-06 20:40:45 WIB
+# omp
+
+
+
+## 📋 Overview
+
+This repository contains **7597 files** and is built with the following technologies:
+
+Node.js, Docker
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 🐳 Docker support
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, Docker
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-06 22:12:38 WIB*
